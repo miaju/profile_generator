@@ -50,10 +50,3 @@ const survey = async function() {
 };
 
 survey();
-
-
-
-/*
-rl.write(`End of profile building.\n`);
-rl.write(`Your name is ${profile.name}. You like to listen to ${profile.listen} while doing ${profile.activity}.You like to eat ${profile.favFood} for ${profile.meal}, and you love ${profile.sport}. Your superpower is ${profile.superpower}!`);
-*/
